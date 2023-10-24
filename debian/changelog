@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+node-busboy (1.6.0+~cs2.6.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Yadd <yadd@debian.org>  Sat, 11 Jun 2022 19:01:17 +0200
+
+node-busboy (1.6.0+~cs2.6.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1011136)
+
+ -- Yadd <yadd@debian.org>  Tue, 17 May 2022 14:31:32 +0200
